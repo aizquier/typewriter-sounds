@@ -19,9 +19,14 @@ for this project.
 Requeriments
 ------------
 
--   Python 2.7 (but should work with 3.5)
+-   Python 3.5
 -   [X11 and Xlib bindings for Python](http://python-xlib.sourceforge.net/)
 -   [PyGame](http://pygame.org) (for sound)
+
+Install requeriments:
+
+    $ pip install -r requeriments.txt
+
 
 Usage
 -----
